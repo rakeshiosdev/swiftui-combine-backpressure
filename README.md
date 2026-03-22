@@ -63,7 +63,7 @@ View → ViewModel → Combine Pipeline → API Simulation
 Add your GIF here 👇
 
 ```md
-![Demo](https://raw.githubusercontent.com/rakeshiosdev/swiftui-combine-backpressure/main/StreamControlEngine/Resources/demo.gif)
+https://github.com/rakeshiosdev/swiftui-combine-backpressure/blob/main/StreamControlEngine/Resorces/demo.gif
 ```
 
 ## 📂 Project Structure
